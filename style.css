@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(120, 120, 167);
+    direction: rtl;
+    
+}
+p{
+    font-size: large;
+    font-size: 30px;
+}
+h1{
+font-size: 40;
+font-family:fantasy;
+font-style: italic;
+color: brown;
+}
+a{
+    color:rgb(6, 7, 65);
+    font-size: 15pt;
+}
+div{
+border: 5px outset rgb(243, 63, 189);
+background-color: rgb(238, 198, 243);
+text-align: center;
+padding: 30px;
+}
+footer {
+    display: block;
+}
